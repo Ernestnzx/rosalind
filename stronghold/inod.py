@@ -1,0 +1,1 @@
+print(int(open('./testcase/rosalind_inod.txt','r').readline())-2)

@@ -1,0 +1,1 @@
+print(pow(2,int(open('./testcase/rosalind_sset.txt','r').readline()),1000000))
