@@ -17,8 +17,10 @@ that I'm thoroughly enjoying.
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
+|[Introduction to Alternative Splicing](https://rosalind.info/problems/aspc/)|ASPC|[![py](./images/python.png)](./stronghold/aspc.py)|
 |[Catalan Numbers and RNA Secondary Structures](https://rosalind.info/problems/cat/)|CAT|[![py](./images/python.png)](./stronghold/cat.py)|
 |[Consensus and Profile](https://rosalind.info/problems/cons/)|CONS|[![py](./images/python.png)](./stronghold/cons.py)|
+|[Comparing Spectra with the Spectral Convolution](https://rosalind.info/problems/conv/)|CONV|[![py](./images/python.png)](./stronghold/conv.py)|
 |[Error Correction in Reads](https://rosalind.info/problems/corr/)|CORR|[![py](./images/python.png)](./stronghold/corr.py)|
 |[Constructing a De Bruijn Graph](https://rosalind.info/problems/dbru/)|DBRU|[![py](./images/python.png)](./stronghold/dbru.py)|
 |[Counting DNA Nucleotides](https://rosalind.info/problems/dna/)|DNA|[![py](./images/python.png)](./stronghold/dna.py)|
@@ -43,6 +45,7 @@ that I'm thoroughly enjoying.
 |[Longest Increasing Subsequence](https://rosalind.info/problems/lgis/)|LGIS|[![py](./images/python.png)](./stronghold/lgis.py)|
 |[Independent Alleles](https://rosalind.info/problems/lia/)|LIA|[![py](./images/python.png)](./stronghold/lia.py)|
 |[Genome Assembly as Shortest Superstring](https://rosalind.info/problems/long/)|LONG|[![py](./images/python.png)](./stronghold/long.py)|
+|[Finding the Longest Multiple Repeat](https://rosalind.info/problems/lrep/)|LREP|[![py](./images/python.png)](./stronghold/lrep.py)|
 |[Maximum Matchings and RNA Secondary Structures](https://rosalind.info/problems/mmch/)|MMCH|[![py](./images/python.png)](./stronghold/mmch.py)|
 |[Finding a Protein Motif](https://rosalind.info/problems/mprt/)|MPRT|[![py](./images/python.png)](./stronghold/mprt.py)|
 |[Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)|MRNA|[![py](./images/python.png)](./stronghold/mrna.py)|
@@ -56,6 +59,7 @@ that I'm thoroughly enjoying.
 |[Partial Permutations](https://rosalind.info/problems/pper/)|PPER|[![py](./images/python.png)](./stronghold/pper.py)|
 |[Introduction to Random Strings](https://rosalind.info/problems/prob/)|PROB|[![py](./images/python.png)](./stronghold/prob.py)|
 |[Translating RNA into Protein](https://rosalind.info/problems/prot/)|PROT|[![py](./images/python.png)](./stronghold/prot.py)|
+|[Matching a Spectrum to a Protein](https://rosalind.info/problems/prsm/)|PRSM|[![py](./images/python.png)](./stronghold/prsm.py)|
 |[Calculating Protein Mass](https://rosalind.info/problems/prtm/)|PRTM|[![py](./images/python.png)](./stronghold/prtm.py)|
 |[Complementing a Strand of DNA](https://rosalind.info/problems/revc/)|REVC|[![py](./images/python.png)](./stronghold/revc.py)|
 |[Locating Restriction Sites](https://rosalind.info/problems/revp/)|REVP|[![py](./images/python.png)](./stronghold/revp.py)|
