@@ -2,15 +2,17 @@
 > [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. This repository contains my solutions to some of the questions that I solved ✨
 
 ## Why Bioinformatics? 🧬
-
-After learning String Data Structures (such as Suffix Arrays and Suffix Trees) and String Matching Algorithms
-in Competitive Programming. I found it to be one of the most satisfying yet cursed topic that I've learnt so
-far. Coincidentally, I stumbled upon a textbook 'Algorithms in Bioinformatics: A Practical Introduction' by a former Professor from the National University of Singapore and thus started a journey down this rabbit hole
+ 
+After learning String Data Structures (such as Suffix Arrays and Suffix Trees) and String Matching Algorithms 
+in Competitive Programming, I found it to be one of the most satisfying yet cursed topic that I've learnt so 
+far. Coincidentally, I stumbled upon a textbook 'Algorithms in Bioinformatics: A Practical Introduction' by a former Professor from the National University of Singapore and thus started a journey down this rabbit hole 
 that I'm thoroughly enjoying.
+
 ## Current Goals in learning Bioinformatics? 🎯
 
 - **Exploration**: I do not have any background in Biology so I'm using this opportunity to pick up the basics while sharpening my algorithmic skills
 - **Algorithmic Curiosity**: Solving problems is one of the main reason why I love Computer Science, so Bioinformatics is a natural progression into solving real life problems.
+
 ## Bioinformatics Stronghold
 
 |Problem Name|Problem ID|Solution|
