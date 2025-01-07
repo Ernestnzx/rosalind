@@ -49,6 +49,6 @@ with open('README.md','w+') as new_readme:
         solved = set([x.name.split('.')[0].strip().upper() for x in os.scandir(file_path) if x.is_file()])
         all_problems = get_all_problems(subdomain)
         rows = [(pid,*all_problems[pid]) for pid in solved if pid in all_problems]
-        for pid,title,url in rows:
+        for pid,title,url in sorted(rows):
             new_readme.write(f'|[{title}]({url})|{pid}|[![py](./images/python.png)](./{file_path}/{pid.lower()}.py)|\n')
         new_readme.write('\n')
