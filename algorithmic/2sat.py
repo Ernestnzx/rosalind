@@ -6,9 +6,9 @@ with open('./testcase/temp.txt','r') as f:
         f.readline()
         n,m = map(int,f.readline().split())
         al,comp = {},{}
-        for i in range(1, n + 1):
-            al[i], al[-i] = set(), set()
-            comp[i], comp[-i] = set(), set()
+        for i in range(1,n+1):
+            al[i],al[-i] = set(),set()
+            comp[i],comp[-i] = set(),set()
         for _ in range(m):
             a,b = map(int,f.readline().split())
             al[-a].add(b); al[-b].add(a)
