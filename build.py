@@ -45,10 +45,11 @@ with open('README.md','w+') as new_readme:
         '- **Algorithmic Curiosity**: Solving problems is one of the main reason why I love Computer Science, so Bioinformatics is a natural progression into solving real life problems.\n\n'
     ]))
     for title,file_path,subdomain in sections:
-        new_readme.write(f'## {title}\n\n')
-        new_readme.write('|Problem Name|Problem ID|Solution|\n|:---|:---|:---|\n')
         solved = set([x.name.split('.')[0].strip().upper() for x in os.scandir(file_path) if x.is_file()])
         all_problems = get_all_problems(subdomain)
+        new_readme.write(f'## {title}\n\n')
+        new_readme.write(f'### Problem Solved: {len(solved)}/{len(all_problems)}\n\n')
+        new_readme.write('|Problem Name|Problem ID|Solution|\n|:---|:---|:---|\n')
         rows = [(pid,*all_problems[pid]) for pid in solved if pid in all_problems]
         for pid,title,url in sorted(rows):
             new_readme.write(f'|[{title}]({url})|{pid}|[![py](./images/python.png)](./{file_path}/{pid.lower()}.py)|\n')

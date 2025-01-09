@@ -15,6 +15,8 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
+### Problem Solved: 63/105
+
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
 |[Introduction to Alternative Splicing](https://rosalind.info/problems/aspc/)|ASPC|[![py](./images/python.png)](./stronghold/aspc.py)|
@@ -83,6 +85,8 @@ that I'm thoroughly enjoying.
 
 ## Algorithmic Heights
 
+### Problem Solved: 34/34
+
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
 |[2-Satisfiability](https://rosalind.info/problems/2sat/)|2SAT|[![py](./images/python.png)](./algorithmic/2sat.py)|
@@ -121,6 +125,8 @@ that I'm thoroughly enjoying.
 |[Topological Sorting](https://rosalind.info/problems/ts/)|TS|[![py](./images/python.png)](./algorithmic/ts.py)|
 
 ## Python Village
+
+### Problem Solved: 6/6
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
