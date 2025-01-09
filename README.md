@@ -22,6 +22,7 @@ that I'm thoroughly enjoying.
 |[Consensus and Profile](https://rosalind.info/problems/cons/)|CONS|[![py](./images/python.png)](./stronghold/cons.py)|
 |[Comparing Spectra with the Spectral Convolution](https://rosalind.info/problems/conv/)|CONV|[![py](./images/python.png)](./stronghold/conv.py)|
 |[Error Correction in Reads](https://rosalind.info/problems/corr/)|CORR|[![py](./images/python.png)](./stronghold/corr.py)|
+|[Counting Optimal Alignments](https://rosalind.info/problems/ctea/)|CTEA|[![py](./images/python.png)](./stronghold/ctea.py)|
 |[Constructing a De Bruijn Graph](https://rosalind.info/problems/dbru/)|DBRU|[![py](./images/python.png)](./stronghold/dbru.py)|
 |[Counting DNA Nucleotides](https://rosalind.info/problems/dna/)|DNA|[![py](./images/python.png)](./stronghold/dna.py)|
 |[Edit Distance](https://rosalind.info/problems/edit/)|EDIT|[![py](./images/python.png)](./stronghold/edit.py)|
@@ -36,6 +37,7 @@ that I'm thoroughly enjoying.
 |[Calculating Expected Offspring](https://rosalind.info/problems/iev/)|IEV|[![py](./images/python.png)](./stronghold/iev.py)|
 |[Counting Phylogenetic Ancestors](https://rosalind.info/problems/inod/)|INOD|[![py](./images/python.png)](./stronghold/inod.py)|
 |[Mendel's First Law](https://rosalind.info/problems/iprb/)|IPRB|[![py](./images/python.png)](./stronghold/iprb.py)|
+|[Finding Disjoint Motifs in a Gene](https://rosalind.info/problems/itwv/)|ITWV|[![py](./images/python.png)](./stronghold/itwv.py)|
 |[k-Mer Composition](https://rosalind.info/problems/kmer/)|KMER|[![py](./images/python.png)](./stronghold/kmer.py)|
 |[Speeding Up Motif Finding](https://rosalind.info/problems/kmp/)|KMP|[![py](./images/python.png)](./stronghold/kmp.py)|
 |[Finding a Shared Motif](https://rosalind.info/problems/lcsm/)|LCSM|[![py](./images/python.png)](./stronghold/lcsm.py)|
@@ -61,6 +63,7 @@ that I'm thoroughly enjoying.
 |[Translating RNA into Protein](https://rosalind.info/problems/prot/)|PROT|[![py](./images/python.png)](./stronghold/prot.py)|
 |[Matching a Spectrum to a Protein](https://rosalind.info/problems/prsm/)|PRSM|[![py](./images/python.png)](./stronghold/prsm.py)|
 |[Calculating Protein Mass](https://rosalind.info/problems/prtm/)|PRTM|[![py](./images/python.png)](./stronghold/prtm.py)|
+|[Reversal Distance](https://rosalind.info/problems/rear/)|REAR|[![py](./images/python.png)](./stronghold/rear.py)|
 |[Complementing a Strand of DNA](https://rosalind.info/problems/revc/)|REVC|[![py](./images/python.png)](./stronghold/revc.py)|
 |[Locating Restriction Sites](https://rosalind.info/problems/revp/)|REVP|[![py](./images/python.png)](./stronghold/revp.py)|
 |[Transcribing DNA into RNA](https://rosalind.info/problems/rna/)|RNA|[![py](./images/python.png)](./stronghold/rna.py)|
@@ -68,6 +71,7 @@ that I'm thoroughly enjoying.
 |[Interleaving Two Motifs](https://rosalind.info/problems/scsp/)|SCSP|[![py](./images/python.png)](./stronghold/scsp.py)|
 |[Introduction to Set Operations](https://rosalind.info/problems/seto/)|SETO|[![py](./images/python.png)](./stronghold/seto.py)|
 |[Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)|SIGN|[![py](./images/python.png)](./stronghold/sign.py)|
+|[Sorting by Reversals](https://rosalind.info/problems/sort/)|SORT|[![py](./images/python.png)](./stronghold/sort.py)|
 |[Inferring Protein from Spectrum](https://rosalind.info/problems/spec/)|SPEC|[![py](./images/python.png)](./stronghold/spec.py)|
 |[RNA Splicing](https://rosalind.info/problems/splc/)|SPLC|[![py](./images/python.png)](./stronghold/splc.py)|
 |[Finding a Spliced Motif](https://rosalind.info/problems/sseq/)|SSEQ|[![py](./images/python.png)](./stronghold/sseq.py)|
