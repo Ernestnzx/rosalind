@@ -5,8 +5,9 @@ from bs4 import BeautifulSoup
 BASE_URL='http://rosalind.info/problems/list-view/?location='
 sections=[
     ('Bioinformatics Stronghold','stronghold','bioinformatics-stronghold'),
+    # ('Bioinformatics Armory', 'armory', 'bioinformatics-armory'),
     ('Algorithmic Heights','algorithmic','algorithmic-heights'),
-    ('Python Village','village','python-village')
+    ('Python Village','village','python-village'),
 ]
 
 def get_all_problems(subdomain):
@@ -47,10 +48,10 @@ with open('README.md','w+') as new_readme:
     for title,file_path,subdomain in sections:
         solved = set([x.name.split('.')[0].strip().upper() for x in os.scandir(file_path) if x.is_file()])
         all_problems = get_all_problems(subdomain)
+        rows = [(pid,*all_problems[pid]) for pid in solved if pid in all_problems]
         new_readme.write(f'## {title}\n\n')
         new_readme.write(f'### Problem Solved: {len(solved)}/{len(all_problems)}\n\n')
         new_readme.write('|Problem Name|Problem ID|Solution|\n|:---|:---|:---|\n')
-        rows = [(pid,*all_problems[pid]) for pid in solved if pid in all_problems]
         for pid,title,url in sorted(rows):
             new_readme.write(f'|[{title}]({url})|{pid}|[![py](./images/python.png)](./{file_path}/{pid.lower()}.py)|\n')
         new_readme.write('\n')

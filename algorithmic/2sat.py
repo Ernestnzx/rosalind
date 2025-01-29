@@ -1,6 +1,6 @@
 from sys import setrecursionlimit
 setrecursionlimit(10**5)
-with open('./testcase/temp.txt','r') as f:
+with open('./testcase/rosalind_2sat.txt','r') as f:
     tc = int(f.readline())
     for _ in range(tc):
         f.readline()

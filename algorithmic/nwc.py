@@ -1,4 +1,3 @@
-from collections import deque
 with open('./testcase/rosalind_nwc.txt','r') as f:
     INF=int(1e9)
     tc = int(f.readline())

@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 63/105
+### Problem Solved: 64/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -37,6 +37,7 @@ that I'm thoroughly enjoying.
 |[Overlap Graphs](https://rosalind.info/problems/grph/)|GRPH|[![py](./images/python.png)](./stronghold/grph.py)|
 |[Counting Point Mutations](https://rosalind.info/problems/hamm/)|HAMM|[![py](./images/python.png)](./stronghold/hamm.py)|
 |[Calculating Expected Offspring](https://rosalind.info/problems/iev/)|IEV|[![py](./images/python.png)](./stronghold/iev.py)|
+|[Independent Segregation of Chromosomes](https://rosalind.info/problems/indc/)|INDC|[![py](./images/python.png)](./stronghold/indc.py)|
 |[Counting Phylogenetic Ancestors](https://rosalind.info/problems/inod/)|INOD|[![py](./images/python.png)](./stronghold/inod.py)|
 |[Mendel's First Law](https://rosalind.info/problems/iprb/)|IPRB|[![py](./images/python.png)](./stronghold/iprb.py)|
 |[Finding Disjoint Motifs in a Gene](https://rosalind.info/problems/itwv/)|ITWV|[![py](./images/python.png)](./stronghold/itwv.py)|
