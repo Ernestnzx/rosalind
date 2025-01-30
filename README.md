@@ -84,6 +84,16 @@ that I'm thoroughly enjoying.
 |[Completing a Tree](https://rosalind.info/problems/tree/)|TREE|[![py](./images/python.png)](./stronghold/tree.py)|
 |[Introduction to Pattern Matching](https://rosalind.info/problems/trie/)|TRIE|[![py](./images/python.png)](./stronghold/trie.py)|
 
+## Bioinformatics Armory
+
+### Problem Solved: 3/15
+
+|Problem Name|Problem ID|Solution|
+|:---|:---|:---|
+|[Data Formats](https://rosalind.info/problems/frmt/)|FRMT|[![py](./images/python.png)](./armory/frmt.py)|
+|[GenBank Introduction](https://rosalind.info/problems/gbk/)|GBK|[![py](./images/python.png)](./armory/gbk.py)|
+|[Introduction to the Bioinformatics Armory](https://rosalind.info/problems/ini/)|INI|[![py](./images/python.png)](./armory/ini.py)|
+
 ## Algorithmic Heights
 
 ### Problem Solved: 34/34

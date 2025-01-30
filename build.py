@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 BASE_URL='http://rosalind.info/problems/list-view/?location='
 sections=[
     ('Bioinformatics Stronghold','stronghold','bioinformatics-stronghold'),
-    # ('Bioinformatics Armory', 'armory', 'bioinformatics-armory'),
+    ('Bioinformatics Armory', 'armory', 'bioinformatics-armory'),
     ('Algorithmic Heights','algorithmic','algorithmic-heights'),
     ('Python Village','village','python-village'),
 ]
