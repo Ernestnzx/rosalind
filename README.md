@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 68/105
+### Problem Solved: 69/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -50,6 +50,7 @@ that I'm thoroughly enjoying.
 |[Ordering Strings of Varying Length Lexicographically](https://rosalind.info/problems/lexv/)|LEXV|[![py](./images/python.png)](./stronghold/lexv.py)|
 |[Longest Increasing Subsequence](https://rosalind.info/problems/lgis/)|LGIS|[![py](./images/python.png)](./stronghold/lgis.py)|
 |[Independent Alleles](https://rosalind.info/problems/lia/)|LIA|[![py](./images/python.png)](./stronghold/lia.py)|
+|[Local Alignment with Scoring Matrix](https://rosalind.info/problems/loca/)|LOCA|[![py](./images/python.png)](./stronghold/loca.py)|
 |[Genome Assembly as Shortest Superstring](https://rosalind.info/problems/long/)|LONG|[![py](./images/python.png)](./stronghold/long.py)|
 |[Finding the Longest Multiple Repeat](https://rosalind.info/problems/lrep/)|LREP|[![py](./images/python.png)](./stronghold/lrep.py)|
 |[Inferring Genotype from a Pedigree](https://rosalind.info/problems/mend/)|MEND|[![py](./images/python.png)](./stronghold/mend.py)|
