@@ -15,10 +15,11 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 64/105
+### Problem Solved: 68/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
+|[Counting Disease Carriers](https://rosalind.info/problems/afrq/)|AFRQ|[![py](./images/python.png)](./stronghold/afrq.py)|
 |[Introduction to Alternative Splicing](https://rosalind.info/problems/aspc/)|ASPC|[![py](./images/python.png)](./stronghold/aspc.py)|
 |[Catalan Numbers and RNA Secondary Structures](https://rosalind.info/problems/cat/)|CAT|[![py](./images/python.png)](./stronghold/cat.py)|
 |[Consensus and Profile](https://rosalind.info/problems/cons/)|CONS|[![py](./images/python.png)](./stronghold/cons.py)|
@@ -51,6 +52,7 @@ that I'm thoroughly enjoying.
 |[Independent Alleles](https://rosalind.info/problems/lia/)|LIA|[![py](./images/python.png)](./stronghold/lia.py)|
 |[Genome Assembly as Shortest Superstring](https://rosalind.info/problems/long/)|LONG|[![py](./images/python.png)](./stronghold/long.py)|
 |[Finding the Longest Multiple Repeat](https://rosalind.info/problems/lrep/)|LREP|[![py](./images/python.png)](./stronghold/lrep.py)|
+|[Inferring Genotype from a Pedigree](https://rosalind.info/problems/mend/)|MEND|[![py](./images/python.png)](./stronghold/mend.py)|
 |[Maximum Matchings and RNA Secondary Structures](https://rosalind.info/problems/mmch/)|MMCH|[![py](./images/python.png)](./stronghold/mmch.py)|
 |[Finding a Protein Motif](https://rosalind.info/problems/mprt/)|MPRT|[![py](./images/python.png)](./stronghold/mprt.py)|
 |[Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)|MRNA|[![py](./images/python.png)](./stronghold/mrna.py)|
@@ -73,6 +75,7 @@ that I'm thoroughly enjoying.
 |[Matching Random Motifs](https://rosalind.info/problems/rstr/)|RSTR|[![py](./images/python.png)](./stronghold/rstr.py)|
 |[Interleaving Two Motifs](https://rosalind.info/problems/scsp/)|SCSP|[![py](./images/python.png)](./stronghold/scsp.py)|
 |[Introduction to Set Operations](https://rosalind.info/problems/seto/)|SETO|[![py](./images/python.png)](./stronghold/seto.py)|
+|[Sex-Linked Inheritance](https://rosalind.info/problems/sexl/)|SEXL|[![py](./images/python.png)](./stronghold/sexl.py)|
 |[Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)|SIGN|[![py](./images/python.png)](./stronghold/sign.py)|
 |[Sorting by Reversals](https://rosalind.info/problems/sort/)|SORT|[![py](./images/python.png)](./stronghold/sort.py)|
 |[Inferring Protein from Spectrum](https://rosalind.info/problems/spec/)|SPEC|[![py](./images/python.png)](./stronghold/spec.py)|
@@ -83,6 +86,7 @@ that I'm thoroughly enjoying.
 |[Transitions and Transversions](https://rosalind.info/problems/tran/)|TRAN|[![py](./images/python.png)](./stronghold/tran.py)|
 |[Completing a Tree](https://rosalind.info/problems/tree/)|TREE|[![py](./images/python.png)](./stronghold/tree.py)|
 |[Introduction to Pattern Matching](https://rosalind.info/problems/trie/)|TRIE|[![py](./images/python.png)](./stronghold/trie.py)|
+|[The Wright-Fisher Model of Genetic Drift](https://rosalind.info/problems/wfmd/)|WFMD|[![py](./images/python.png)](./stronghold/wfmd.py)|
 
 ## Bioinformatics Armory
 
