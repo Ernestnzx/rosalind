@@ -1,5 +1,5 @@
 # Rosalind
-> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. This repository contains my solutions to some of the questions that I solved ✨
+> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. This repository contains my solutions to some of the questions that I solved, so if you find it helpful please star this repository⭐
 
 ## Why Bioinformatics? 🧬
  
@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 69/105
+### Problem Solved: 71/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -34,6 +34,7 @@ that I'm thoroughly enjoying.
 |[Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)|FIB|[![py](./images/python.png)](./stronghold/fib.py)|
 |[Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)|FIBD|[![py](./images/python.png)](./stronghold/fibd.py)|
 |[Computing GC Content](https://rosalind.info/problems/gc/)|GC|[![py](./images/python.png)](./stronghold/gc.py)|
+|[Global Alignment with Constant Gap Penalty](https://rosalind.info/problems/gcon/)|GCON|[![py](./images/python.png)](./stronghold/gcon.py)|
 |[Global Alignment with Scoring Matrix](https://rosalind.info/problems/glob/)|GLOB|[![py](./images/python.png)](./stronghold/glob.py)|
 |[Overlap Graphs](https://rosalind.info/problems/grph/)|GRPH|[![py](./images/python.png)](./stronghold/grph.py)|
 |[Counting Point Mutations](https://rosalind.info/problems/hamm/)|HAMM|[![py](./images/python.png)](./stronghold/hamm.py)|
@@ -78,6 +79,7 @@ that I'm thoroughly enjoying.
 |[Introduction to Set Operations](https://rosalind.info/problems/seto/)|SETO|[![py](./images/python.png)](./stronghold/seto.py)|
 |[Sex-Linked Inheritance](https://rosalind.info/problems/sexl/)|SEXL|[![py](./images/python.png)](./stronghold/sexl.py)|
 |[Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)|SIGN|[![py](./images/python.png)](./stronghold/sign.py)|
+|[Semiglobal Alignment](https://rosalind.info/problems/smgb/)|SMGB|[![py](./images/python.png)](./stronghold/smgb.py)|
 |[Sorting by Reversals](https://rosalind.info/problems/sort/)|SORT|[![py](./images/python.png)](./stronghold/sort.py)|
 |[Inferring Protein from Spectrum](https://rosalind.info/problems/spec/)|SPEC|[![py](./images/python.png)](./stronghold/spec.py)|
 |[RNA Splicing](https://rosalind.info/problems/splc/)|SPLC|[![py](./images/python.png)](./stronghold/splc.py)|
