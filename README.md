@@ -1,5 +1,5 @@
 # Rosalind
-> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. This repository contains my solutions to some of the questions that I solved ✨
+> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. This repository contains my solutions to some of the questions that I solved. If you find it helpful do star this repository, thank you! ⭐
 
 ## Why Bioinformatics? 🧬
  

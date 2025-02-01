@@ -31,7 +31,8 @@ def get_all_problems(subdomain):
     return data
 
 with open('README.md','w+') as new_readme:
-    new_readme.write('# Rosalind\n> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. This repository contains my solutions to some of the questions that I solved ✨\n\n')
+    new_readme.write('# Rosalind\n> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. ' 
+            + 'This repository contains my solutions to some of the questions that I solved. If you find it helpful do star this repository, thank you! ⭐\n\n')
     new_readme.write(' \n'.join([
         '## Why Bioinformatics? 🧬\n',
         'After learning String Data Structures (such as Suffix Arrays and Suffix Trees) and String Matching Algorithms',
