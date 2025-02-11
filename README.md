@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 71/105
+### Problem Solved: 74/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -51,10 +51,12 @@ that I'm thoroughly enjoying.
 |[Ordering Strings of Varying Length Lexicographically](https://rosalind.info/problems/lexv/)|LEXV|[![py](./images/python.png)](./stronghold/lexv.py)|
 |[Longest Increasing Subsequence](https://rosalind.info/problems/lgis/)|LGIS|[![py](./images/python.png)](./stronghold/lgis.py)|
 |[Independent Alleles](https://rosalind.info/problems/lia/)|LIA|[![py](./images/python.png)](./stronghold/lia.py)|
+|[Linguistic Complexity of a Genome](https://rosalind.info/problems/ling/)|LING|[![py](./images/python.png)](./stronghold/ling.py)|
 |[Local Alignment with Scoring Matrix](https://rosalind.info/problems/loca/)|LOCA|[![py](./images/python.png)](./stronghold/loca.py)|
 |[Genome Assembly as Shortest Superstring](https://rosalind.info/problems/long/)|LONG|[![py](./images/python.png)](./stronghold/long.py)|
 |[Finding the Longest Multiple Repeat](https://rosalind.info/problems/lrep/)|LREP|[![py](./images/python.png)](./stronghold/lrep.py)|
 |[Inferring Genotype from a Pedigree](https://rosalind.info/problems/mend/)|MEND|[![py](./images/python.png)](./stronghold/mend.py)|
+|[Maximizing the Gap Symbols of an Optimal Alignment](https://rosalind.info/problems/mgap/)|MGAP|[![py](./images/python.png)](./stronghold/mgap.py)|
 |[Maximum Matchings and RNA Secondary Structures](https://rosalind.info/problems/mmch/)|MMCH|[![py](./images/python.png)](./stronghold/mmch.py)|
 |[Finding a Protein Motif](https://rosalind.info/problems/mprt/)|MPRT|[![py](./images/python.png)](./stronghold/mprt.py)|
 |[Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)|MRNA|[![py](./images/python.png)](./stronghold/mrna.py)|
@@ -86,6 +88,7 @@ that I'm thoroughly enjoying.
 |[Finding a Spliced Motif](https://rosalind.info/problems/sseq/)|SSEQ|[![py](./images/python.png)](./stronghold/sseq.py)|
 |[Counting Subsets](https://rosalind.info/problems/sset/)|SSET|[![py](./images/python.png)](./stronghold/sset.py)|
 |[Finding a Motif in DNA](https://rosalind.info/problems/subs/)|SUBS|[![py](./images/python.png)](./stronghold/subs.py)|
+|[Encoding Suffix Trees](https://rosalind.info/problems/suff/)|SUFF|[![py](./images/python.png)](./stronghold/suff.py)|
 |[Transitions and Transversions](https://rosalind.info/problems/tran/)|TRAN|[![py](./images/python.png)](./stronghold/tran.py)|
 |[Completing a Tree](https://rosalind.info/problems/tree/)|TREE|[![py](./images/python.png)](./stronghold/tree.py)|
 |[Introduction to Pattern Matching](https://rosalind.info/problems/trie/)|TRIE|[![py](./images/python.png)](./stronghold/trie.py)|
