@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 74/105
+### Problem Solved: 77/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -33,6 +33,7 @@ that I'm thoroughly enjoying.
 |[Expected Number of Restriction Sites](https://rosalind.info/problems/eval/)|EVAL|[![py](./images/python.png)](./stronghold/eval.py)|
 |[Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)|FIB|[![py](./images/python.png)](./stronghold/fib.py)|
 |[Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)|FIBD|[![py](./images/python.png)](./stronghold/fibd.py)|
+|[Global Alignment with Scoring Matrix and Affine Gap Penalty](https://rosalind.info/problems/gaff/)|GAFF|[![py](./images/python.png)](./stronghold/gaff.py)|
 |[Computing GC Content](https://rosalind.info/problems/gc/)|GC|[![py](./images/python.png)](./stronghold/gc.py)|
 |[Global Alignment with Constant Gap Penalty](https://rosalind.info/problems/gcon/)|GCON|[![py](./images/python.png)](./stronghold/gcon.py)|
 |[Global Alignment with Scoring Matrix](https://rosalind.info/problems/glob/)|GLOB|[![py](./images/python.png)](./stronghold/glob.py)|
@@ -62,6 +63,7 @@ that I'm thoroughly enjoying.
 |[Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)|MRNA|[![py](./images/python.png)](./stronghold/mrna.py)|
 |[Newick Format with Edge Weights](https://rosalind.info/problems/nkew/)|NKEW|[![py](./images/python.png)](./stronghold/nkew.py)|
 |[Distances in Trees](https://rosalind.info/problems/nwck/)|NWCK|[![py](./images/python.png)](./stronghold/nwck.py)|
+|[Overlap Alignment](https://rosalind.info/problems/oap/)|OAP|[![py](./images/python.png)](./stronghold/oap.py)|
 |[Open Reading Frames](https://rosalind.info/problems/orf/)|ORF|[![py](./images/python.png)](./stronghold/orf.py)|
 |[Genome Assembly with Perfect Coverage](https://rosalind.info/problems/pcov/)|PCOV|[![py](./images/python.png)](./stronghold/pcov.py)|
 |[Creating a Distance Matrix](https://rosalind.info/problems/pdst/)|PDST|[![py](./images/python.png)](./stronghold/pdst.py)|
@@ -81,6 +83,7 @@ that I'm thoroughly enjoying.
 |[Introduction to Set Operations](https://rosalind.info/problems/seto/)|SETO|[![py](./images/python.png)](./stronghold/seto.py)|
 |[Sex-Linked Inheritance](https://rosalind.info/problems/sexl/)|SEXL|[![py](./images/python.png)](./stronghold/sexl.py)|
 |[Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)|SIGN|[![py](./images/python.png)](./stronghold/sign.py)|
+|[Finding a Motif with Modifications](https://rosalind.info/problems/sims/)|SIMS|[![py](./images/python.png)](./stronghold/sims.py)|
 |[Semiglobal Alignment](https://rosalind.info/problems/smgb/)|SMGB|[![py](./images/python.png)](./stronghold/smgb.py)|
 |[Sorting by Reversals](https://rosalind.info/problems/sort/)|SORT|[![py](./images/python.png)](./stronghold/sort.py)|
 |[Inferring Protein from Spectrum](https://rosalind.info/problems/spec/)|SPEC|[![py](./images/python.png)](./stronghold/spec.py)|

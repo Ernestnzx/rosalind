@@ -21,7 +21,7 @@ class Trie:
     def traverse(self, u=None, path=()):
         if not u: u = self.root
         size = sum(map(lambda x : 1 if x else 0, u.child))
-        if size > 1 or size == 0:
+        if size != 1:
             if path: suffix_branch.append(''.join(path))
             path = ()
         for v in u.child:
