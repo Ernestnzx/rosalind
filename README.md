@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 80/105
+### Problem Solved: 85/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -25,8 +25,10 @@ that I'm thoroughly enjoying.
 |[Consensus and Profile](https://rosalind.info/problems/cons/)|CONS|[![py](./images/python.png)](./stronghold/cons.py)|
 |[Comparing Spectra with the Spectral Convolution](https://rosalind.info/problems/conv/)|CONV|[![py](./images/python.png)](./stronghold/conv.py)|
 |[Error Correction in Reads](https://rosalind.info/problems/corr/)|CORR|[![py](./images/python.png)](./stronghold/corr.py)|
+|[Creating a Character Table from Genetic Strings](https://rosalind.info/problems/cstr/)|CSTR|[![py](./images/python.png)](./stronghold/cstr.py)|
 |[Creating a Character Table](https://rosalind.info/problems/ctbl/)|CTBL|[![py](./images/python.png)](./stronghold/ctbl.py)|
 |[Counting Optimal Alignments](https://rosalind.info/problems/ctea/)|CTEA|[![py](./images/python.png)](./stronghold/ctea.py)|
+|[Counting Unrooted Binary Trees](https://rosalind.info/problems/cunr/)|CUNR|[![py](./images/python.png)](./stronghold/cunr.py)|
 |[Constructing a De Bruijn Graph](https://rosalind.info/problems/dbru/)|DBRU|[![py](./images/python.png)](./stronghold/dbru.py)|
 |[Counting DNA Nucleotides](https://rosalind.info/problems/dna/)|DNA|[![py](./images/python.png)](./stronghold/dna.py)|
 |[Edit Distance](https://rosalind.info/problems/edit/)|EDIT|[![py](./images/python.png)](./stronghold/edit.py)|
@@ -77,6 +79,7 @@ that I'm thoroughly enjoying.
 |[Translating RNA into Protein](https://rosalind.info/problems/prot/)|PROT|[![py](./images/python.png)](./stronghold/prot.py)|
 |[Matching a Spectrum to a Protein](https://rosalind.info/problems/prsm/)|PRSM|[![py](./images/python.png)](./stronghold/prsm.py)|
 |[Calculating Protein Mass](https://rosalind.info/problems/prtm/)|PRTM|[![py](./images/python.png)](./stronghold/prtm.py)|
+|[Quartets](https://rosalind.info/problems/qrt/)|QRT|[![py](./images/python.png)](./stronghold/qrt.py)|
 |[Reversal Distance](https://rosalind.info/problems/rear/)|REAR|[![py](./images/python.png)](./stronghold/rear.py)|
 |[Complementing a Strand of DNA](https://rosalind.info/problems/revc/)|REVC|[![py](./images/python.png)](./stronghold/revc.py)|
 |[Locating Restriction Sites](https://rosalind.info/problems/revp/)|REVP|[![py](./images/python.png)](./stronghold/revp.py)|
@@ -91,6 +94,7 @@ that I'm thoroughly enjoying.
 |[Sorting by Reversals](https://rosalind.info/problems/sort/)|SORT|[![py](./images/python.png)](./stronghold/sort.py)|
 |[Inferring Protein from Spectrum](https://rosalind.info/problems/spec/)|SPEC|[![py](./images/python.png)](./stronghold/spec.py)|
 |[RNA Splicing](https://rosalind.info/problems/splc/)|SPLC|[![py](./images/python.png)](./stronghold/splc.py)|
+|[Phylogeny Comparison with Split Distance](https://rosalind.info/problems/sptd/)|SPTD|[![py](./images/python.png)](./stronghold/sptd.py)|
 |[Finding a Spliced Motif](https://rosalind.info/problems/sseq/)|SSEQ|[![py](./images/python.png)](./stronghold/sseq.py)|
 |[Counting Subsets](https://rosalind.info/problems/sset/)|SSET|[![py](./images/python.png)](./stronghold/sset.py)|
 |[Finding a Motif in DNA](https://rosalind.info/problems/subs/)|SUBS|[![py](./images/python.png)](./stronghold/subs.py)|
