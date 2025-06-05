@@ -43,7 +43,7 @@ with open('README.md','w+') as new_readme:
     ]))
     new_readme.write('\n'.join([
         '## Current Goals in learning Bioinformatics? 🎯\n',
-        '- **Exploration**: I do not have any background in Biology so I\'m using this opportunity to pick up the basics while sharpening my algorithmic skills\n'
+        '- **Exploration**: I do not have any background in Biology so I\'m using this opportunity to pick up the basics while sharpening my algorithmic skills.\n'
         '- **Algorithmic Curiosity**: Solving problems is one of the main reason why I love Computer Science, so Bioinformatics is a natural progression into solving real life problems.\n\n'
     ]))
     for title,file_path,subdomain in sections:

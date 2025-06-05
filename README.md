@@ -10,12 +10,12 @@ that I'm thoroughly enjoying.
 
 ## Current Goals in learning Bioinformatics? 🎯
 
-- **Exploration**: I do not have any background in Biology so I'm using this opportunity to pick up the basics while sharpening my algorithmic skills
+- **Exploration**: I do not have any background in Biology so I'm using this opportunity to pick up the basics while sharpening my algorithmic skills.
 - **Algorithmic Curiosity**: Solving problems is one of the main reason why I love Computer Science, so Bioinformatics is a natural progression into solving real life problems.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 77/105
+### Problem Solved: 80/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -25,6 +25,7 @@ that I'm thoroughly enjoying.
 |[Consensus and Profile](https://rosalind.info/problems/cons/)|CONS|[![py](./images/python.png)](./stronghold/cons.py)|
 |[Comparing Spectra with the Spectral Convolution](https://rosalind.info/problems/conv/)|CONV|[![py](./images/python.png)](./stronghold/conv.py)|
 |[Error Correction in Reads](https://rosalind.info/problems/corr/)|CORR|[![py](./images/python.png)](./stronghold/corr.py)|
+|[Creating a Character Table](https://rosalind.info/problems/ctbl/)|CTBL|[![py](./images/python.png)](./stronghold/ctbl.py)|
 |[Counting Optimal Alignments](https://rosalind.info/problems/ctea/)|CTEA|[![py](./images/python.png)](./stronghold/ctea.py)|
 |[Constructing a De Bruijn Graph](https://rosalind.info/problems/dbru/)|DBRU|[![py](./images/python.png)](./stronghold/dbru.py)|
 |[Counting DNA Nucleotides](https://rosalind.info/problems/dna/)|DNA|[![py](./images/python.png)](./stronghold/dna.py)|
@@ -61,11 +62,13 @@ that I'm thoroughly enjoying.
 |[Maximum Matchings and RNA Secondary Structures](https://rosalind.info/problems/mmch/)|MMCH|[![py](./images/python.png)](./stronghold/mmch.py)|
 |[Finding a Protein Motif](https://rosalind.info/problems/mprt/)|MPRT|[![py](./images/python.png)](./stronghold/mprt.py)|
 |[Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)|MRNA|[![py](./images/python.png)](./stronghold/mrna.py)|
+|[Multiple Alignment](https://rosalind.info/problems/mult/)|MULT|[![py](./images/python.png)](./stronghold/mult.py)|
 |[Newick Format with Edge Weights](https://rosalind.info/problems/nkew/)|NKEW|[![py](./images/python.png)](./stronghold/nkew.py)|
 |[Distances in Trees](https://rosalind.info/problems/nwck/)|NWCK|[![py](./images/python.png)](./stronghold/nwck.py)|
 |[Overlap Alignment](https://rosalind.info/problems/oap/)|OAP|[![py](./images/python.png)](./stronghold/oap.py)|
 |[Open Reading Frames](https://rosalind.info/problems/orf/)|ORF|[![py](./images/python.png)](./stronghold/orf.py)|
 |[Genome Assembly with Perfect Coverage](https://rosalind.info/problems/pcov/)|PCOV|[![py](./images/python.png)](./stronghold/pcov.py)|
+|[Creating a Restriction Map](https://rosalind.info/problems/pdpl/)|PDPL|[![py](./images/python.png)](./stronghold/pdpl.py)|
 |[Creating a Distance Matrix](https://rosalind.info/problems/pdst/)|PDST|[![py](./images/python.png)](./stronghold/pdst.py)|
 |[Enumerating Gene Orders](https://rosalind.info/problems/perm/)|PERM|[![py](./images/python.png)](./stronghold/perm.py)|
 |[Perfect Matchings and RNA Secondary Structures](https://rosalind.info/problems/pmch/)|PMCH|[![py](./images/python.png)](./stronghold/pmch.py)|
