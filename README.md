@@ -15,13 +15,14 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 85/105
+### Problem Solved: 86/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
 |[Counting Disease Carriers](https://rosalind.info/problems/afrq/)|AFRQ|[![py](./images/python.png)](./stronghold/afrq.py)|
 |[Introduction to Alternative Splicing](https://rosalind.info/problems/aspc/)|ASPC|[![py](./images/python.png)](./stronghold/aspc.py)|
 |[Catalan Numbers and RNA Secondary Structures](https://rosalind.info/problems/cat/)|CAT|[![py](./images/python.png)](./stronghold/cat.py)|
+|[Counting Quartets](https://rosalind.info/problems/cntq/)|CNTQ|[![py](./images/python.png)](./stronghold/cntq.py)|
 |[Consensus and Profile](https://rosalind.info/problems/cons/)|CONS|[![py](./images/python.png)](./stronghold/cons.py)|
 |[Comparing Spectra with the Spectral Convolution](https://rosalind.info/problems/conv/)|CONV|[![py](./images/python.png)](./stronghold/conv.py)|
 |[Error Correction in Reads](https://rosalind.info/problems/corr/)|CORR|[![py](./images/python.png)](./stronghold/corr.py)|
@@ -113,6 +114,27 @@ that I'm thoroughly enjoying.
 |[Data Formats](https://rosalind.info/problems/frmt/)|FRMT|[![py](./images/python.png)](./armory/frmt.py)|
 |[GenBank Introduction](https://rosalind.info/problems/gbk/)|GBK|[![py](./images/python.png)](./armory/gbk.py)|
 |[Introduction to the Bioinformatics Armory](https://rosalind.info/problems/ini/)|INI|[![py](./images/python.png)](./armory/ini.py)|
+
+## Bioinformatics Textbook Track
+
+### Problem Solved: 15/124
+
+|Problem Name|Problem ID|Solution|
+|:---|:---|:---|
+|[Compute the Number of Times a Pattern Appears in a Text](https://rosalind.info/problems/ba1a/)|BA1A|[![py](./images/python.png)](./textbook/ba1a.py)|
+|[Find the Most Frequent Words in a String](https://rosalind.info/problems/ba1b/)|BA1B|[![py](./images/python.png)](./textbook/ba1b.py)|
+|[Find the Reverse Complement of a String](https://rosalind.info/problems/ba1c/)|BA1C|[![py](./images/python.png)](./textbook/ba1c.py)|
+|[Find All Occurrences of a Pattern in a String](https://rosalind.info/problems/ba1d/)|BA1D|[![py](./images/python.png)](./textbook/ba1d.py)|
+|[Find Patterns Forming Clumps in a String](https://rosalind.info/problems/ba1e/)|BA1E|[![py](./images/python.png)](./textbook/ba1e.py)|
+|[Find a Position in a Genome Minimizing the Skew](https://rosalind.info/problems/ba1f/)|BA1F|[![py](./images/python.png)](./textbook/ba1f.py)|
+|[Compute the Hamming Distance Between Two Strings](https://rosalind.info/problems/ba1g/)|BA1G|[![py](./images/python.png)](./textbook/ba1g.py)|
+|[Find All Approximate Occurrences of a Pattern in a String](https://rosalind.info/problems/ba1h/)|BA1H|[![py](./images/python.png)](./textbook/ba1h.py)|
+|[Find the Most Frequent Words with Mismatches in a String](https://rosalind.info/problems/ba1i/)|BA1I|[![py](./images/python.png)](./textbook/ba1i.py)|
+|[Find Frequent Words with Mismatches and Reverse Complements](https://rosalind.info/problems/ba1j/)|BA1J|[![py](./images/python.png)](./textbook/ba1j.py)|
+|[Generate the Frequency Array of a String](https://rosalind.info/problems/ba1k/)|BA1K|[![py](./images/python.png)](./textbook/ba1k.py)|
+|[Implement PatternToNumber](https://rosalind.info/problems/ba1l/)|BA1L|[![py](./images/python.png)](./textbook/ba1l.py)|
+|[Implement NumberToPattern](https://rosalind.info/problems/ba1m/)|BA1M|[![py](./images/python.png)](./textbook/ba1m.py)|
+|[Generate the d-Neighborhood of a String](https://rosalind.info/problems/ba1n/)|BA1N|[![py](./images/python.png)](./textbook/ba1n.py)|
 
 ## Algorithmic Heights
 

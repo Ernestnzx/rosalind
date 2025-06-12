@@ -6,6 +6,7 @@ BASE_URL='http://rosalind.info/problems/list-view/?location='
 sections=[
     ('Bioinformatics Stronghold','stronghold','bioinformatics-stronghold'),
     ('Bioinformatics Armory', 'armory', 'bioinformatics-armory'),
+    ('Bioinformatics Textbook Track','textbook','bioinformatics-textbook-track'),
     ('Algorithmic Heights','algorithmic','algorithmic-heights'),
     ('Python Village','village','python-village'),
 ]
