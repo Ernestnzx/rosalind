@@ -4,9 +4,9 @@ from collections import Counter
 def neighbors(pattern,d,a='ACGT'):
     if d == 0: return set(pattern)
     if len(pattern) == 1: return a
-    neighborhood = set()
-    for t in neighbors(pattern[1:],d):
-        if sum(a!=b for a,b in zip(pattern[1:],t)) < d:
+    neighborhood,suffix = set(),pattern[1:]
+    for t in neighbors(suffix,d):
+        if sum(a!=b for a,b in zip(suffix,t)) < d:
             for x in a: neighborhood.add(x+t)
         else:
             neighborhood.add(pattern[0]+t)

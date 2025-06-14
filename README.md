@@ -1,5 +1,5 @@
 # Rosalind
-> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. This repository contains my solutions to some of the questions that I solved. If you find it helpful do star this repository, thank you! ⭐
+> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem-solving. This repository contains my solutions to the questions that I solved. If you find it helpful do star this repository, thank you! ⭐
 
 ## Why Bioinformatics? 🧬
  
@@ -10,7 +10,7 @@ that I'm thoroughly enjoying.
 
 ## Current Goals in learning Bioinformatics? 🎯
 
-- **Exploration**: I do not have any background in Biology so I'm using this opportunity to pick up the basics while sharpening my algorithmic skills.
+- **Exploration**: I do not have any background in Biology, so I'm using this opportunity to pick up the basics while sharpening my algorithmic skills.
 - **Algorithmic Curiosity**: Solving problems is one of the main reason why I love Computer Science, so Bioinformatics is a natural progression into solving real life problems.
 
 ## Bioinformatics Stronghold
@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 15/124
+### Problem Solved: 23/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -135,6 +135,14 @@ that I'm thoroughly enjoying.
 |[Implement PatternToNumber](https://rosalind.info/problems/ba1l/)|BA1L|[![py](./images/python.png)](./textbook/ba1l.py)|
 |[Implement NumberToPattern](https://rosalind.info/problems/ba1m/)|BA1M|[![py](./images/python.png)](./textbook/ba1m.py)|
 |[Generate the d-Neighborhood of a String](https://rosalind.info/problems/ba1n/)|BA1N|[![py](./images/python.png)](./textbook/ba1n.py)|
+|[Implement MotifEnumeration](https://rosalind.info/problems/ba2a/)|BA2A|[![py](./images/python.png)](./textbook/ba2a.py)|
+|[Find a Median String](https://rosalind.info/problems/ba2b/)|BA2B|[![py](./images/python.png)](./textbook/ba2b.py)|
+|[Find a Profile-most Probable k-mer in a String](https://rosalind.info/problems/ba2c/)|BA2C|[![py](./images/python.png)](./textbook/ba2c.py)|
+|[Implement GreedyMotifSearch](https://rosalind.info/problems/ba2d/)|BA2D|[![py](./images/python.png)](./textbook/ba2d.py)|
+|[Implement GreedyMotifSearch with Pseudocounts](https://rosalind.info/problems/ba2e/)|BA2E|[![py](./images/python.png)](./textbook/ba2e.py)|
+|[Implement RandomizedMotifSearch](https://rosalind.info/problems/ba2f/)|BA2F|[![py](./images/python.png)](./textbook/ba2f.py)|
+|[Implement GibbsSampler](https://rosalind.info/problems/ba2g/)|BA2G|[![py](./images/python.png)](./textbook/ba2g.py)|
+|[Implement DistanceBetweenPatternAndStrings](https://rosalind.info/problems/ba2h/)|BA2H|[![py](./images/python.png)](./textbook/ba2h.py)|
 
 ## Algorithmic Heights
 

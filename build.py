@@ -32,8 +32,8 @@ def get_all_problems(subdomain):
     return data
 
 with open('README.md','w+') as new_readme:
-    new_readme.write('# Rosalind\n> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem solving. ' 
-            + 'This repository contains my solutions to some of the questions that I solved. If you find it helpful do star this repository, thank you! ⭐\n\n')
+    new_readme.write('# Rosalind\n> [Rosalind](http://rosalind.info/about) is a platform for learning bioinformatics through problem-solving. ' 
+            + 'This repository contains my solutions to the questions that I solved. If you find it helpful do star this repository, thank you! ⭐\n\n')
     new_readme.write(' \n'.join([
         '## Why Bioinformatics? 🧬\n',
         'After learning String Data Structures (such as Suffix Arrays and Suffix Trees) and String Matching Algorithms',
@@ -44,7 +44,7 @@ with open('README.md','w+') as new_readme:
     ]))
     new_readme.write('\n'.join([
         '## Current Goals in learning Bioinformatics? 🎯\n',
-        '- **Exploration**: I do not have any background in Biology so I\'m using this opportunity to pick up the basics while sharpening my algorithmic skills.\n'
+        '- **Exploration**: I do not have any background in Biology, so I\'m using this opportunity to pick up the basics while sharpening my algorithmic skills.\n'
         '- **Algorithmic Curiosity**: Solving problems is one of the main reason why I love Computer Science, so Bioinformatics is a natural progression into solving real life problems.\n\n'
     ]))
     for title,file_path,subdomain in sections:

@@ -9,13 +9,14 @@ def neighbors(pattern,d,a='ACGT'):
             neighborhood.add(pattern[0]+t)
     return neighborhood
 
-with open('./testcase/rosalind_ba1i.txt','r') as f:
-    s = f.readline().strip()
+with open('./testcase/rosalind_ba2a.txt','r') as f:
     k,d = map(int,f.readline().split())
-    n,c = len(s),{}
-    for i in range(n-k+1):
-        for t in neighbors(s[i:i+k],d):
-            if t not in c: c[t] = 0
-            c[t] += 1
-    m = max(c.values())
-    print(*map(lambda x : x[0], filter(lambda x : x[1] == m, c.items())))
+    dna = [s.strip() for s in f.readlines()]
+    n,m,a = len(dna),len(dna[0]),[]
+    for i in range(n):
+        s = set()
+        for j in range(m-k+1):
+            for t in neighbors(dna[i][j:j+k],d):
+                s.add(t)
+        a.append(s)
+    print(*set.intersection(*a))
