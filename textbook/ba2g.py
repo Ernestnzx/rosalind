@@ -27,9 +27,9 @@ def build_profile(motifs,skip=None):
     return profile
 
 def gibbs_sampler(dna,k,t,n):
-    n,best_motifs = len(dna[0]),[]
+    best_motifs = []
     for s in dna:
-        i = randint(0,n-k)
+        i = randint(0,len(dna[0])-k)
         best_motifs.append(s[i:i+k])
     motifs = [s for s in best_motifs]
     for _ in range(n):
@@ -40,11 +40,11 @@ def gibbs_sampler(dna,k,t,n):
             best_motifs = motifs[:]
     return best_motifs
 
-with open('./testcase/temp.txt','r') as f:
+with open('./testcase/rosalind_ba2g.txt','r') as f:
     k,t,n = map(int,f.readline().strip().split())
     dna = [s.strip() for s in f.readlines()]
     best_motif,best_score = [],10**9
-    for _ in range(50):
+    for _ in range(20):
         motifs = gibbs_sampler(dna,k,t,n)
         motif_score = score(motifs)
         if motif_score < best_score:

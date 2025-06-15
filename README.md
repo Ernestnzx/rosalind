@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 23/124
+### Problem Solved: 36/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -143,6 +143,19 @@ that I'm thoroughly enjoying.
 |[Implement RandomizedMotifSearch](https://rosalind.info/problems/ba2f/)|BA2F|[![py](./images/python.png)](./textbook/ba2f.py)|
 |[Implement GibbsSampler](https://rosalind.info/problems/ba2g/)|BA2G|[![py](./images/python.png)](./textbook/ba2g.py)|
 |[Implement DistanceBetweenPatternAndStrings](https://rosalind.info/problems/ba2h/)|BA2H|[![py](./images/python.png)](./textbook/ba2h.py)|
+|[Generate the k-mer Composition of a String](https://rosalind.info/problems/ba3a/)|BA3A|[![py](./images/python.png)](./textbook/ba3a.py)|
+|[Reconstruct a String from its Genome Path](https://rosalind.info/problems/ba3b/)|BA3B|[![py](./images/python.png)](./textbook/ba3b.py)|
+|[Construct the Overlap Graph of a Collection of k-mers](https://rosalind.info/problems/ba3c/)|BA3C|[![py](./images/python.png)](./textbook/ba3c.py)|
+|[Construct the De Bruijn Graph of a String](https://rosalind.info/problems/ba3d/)|BA3D|[![py](./images/python.png)](./textbook/ba3d.py)|
+|[Construct the De Bruijn Graph of a Collection of k-mers](https://rosalind.info/problems/ba3e/)|BA3E|[![py](./images/python.png)](./textbook/ba3e.py)|
+|[Find an Eulerian Cycle in a Graph](https://rosalind.info/problems/ba3f/)|BA3F|[![py](./images/python.png)](./textbook/ba3f.py)|
+|[Find an Eulerian Path in a Graph](https://rosalind.info/problems/ba3g/)|BA3G|[![py](./images/python.png)](./textbook/ba3g.py)|
+|[Reconstruct a String from its k-mer Composition](https://rosalind.info/problems/ba3h/)|BA3H|[![py](./images/python.png)](./textbook/ba3h.py)|
+|[Find a k-Universal Circular String](https://rosalind.info/problems/ba3i/)|BA3I|[![py](./images/python.png)](./textbook/ba3i.py)|
+|[Reconstruct a String from its Paired Composition](https://rosalind.info/problems/ba3j/)|BA3J|[![py](./images/python.png)](./textbook/ba3j.py)|
+|[Generate Contigs from a Collection of Reads](https://rosalind.info/problems/ba3k/)|BA3K|[![py](./images/python.png)](./textbook/ba3k.py)|
+|[Construct a String Spelled by a Gapped Genome Path](https://rosalind.info/problems/ba3l/)|BA3L|[![py](./images/python.png)](./textbook/ba3l.py)|
+|[Generate All Maximal Non-Branching Paths in a Graph](https://rosalind.info/problems/ba3m/)|BA3M|[![py](./images/python.png)](./textbook/ba3m.py)|
 
 ## Algorithmic Heights
 
