@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 36/124
+### Problem Solved: 49/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -156,6 +156,19 @@ that I'm thoroughly enjoying.
 |[Generate Contigs from a Collection of Reads](https://rosalind.info/problems/ba3k/)|BA3K|[![py](./images/python.png)](./textbook/ba3k.py)|
 |[Construct a String Spelled by a Gapped Genome Path](https://rosalind.info/problems/ba3l/)|BA3L|[![py](./images/python.png)](./textbook/ba3l.py)|
 |[Generate All Maximal Non-Branching Paths in a Graph](https://rosalind.info/problems/ba3m/)|BA3M|[![py](./images/python.png)](./textbook/ba3m.py)|
+|[Translate an RNA String into an Amino Acid String](https://rosalind.info/problems/ba4a/)|BA4A|[![py](./images/python.png)](./textbook/ba4a.py)|
+|[Find Substrings of a Genome Encoding a Given Amino Acid String](https://rosalind.info/problems/ba4b/)|BA4B|[![py](./images/python.png)](./textbook/ba4b.py)|
+|[Generate the Theoretical Spectrum of a Cyclic Peptide](https://rosalind.info/problems/ba4c/)|BA4C|[![py](./images/python.png)](./textbook/ba4c.py)|
+|[Compute the Number of Peptides of Given Total Mass](https://rosalind.info/problems/ba4d/)|BA4D|[![py](./images/python.png)](./textbook/ba4d.py)|
+|[Find a Cyclic Peptide with Theoretical Spectrum Matching an Ideal Spectrum](https://rosalind.info/problems/ba4e/)|BA4E|[![py](./images/python.png)](./textbook/ba4e.py)|
+|[Compute the Score of a Cyclic Peptide Against a Spectrum](https://rosalind.info/problems/ba4f/)|BA4F|[![py](./images/python.png)](./textbook/ba4f.py)|
+|[Implement LeaderboardCyclopeptideSequencing](https://rosalind.info/problems/ba4g/)|BA4G|[![py](./images/python.png)](./textbook/ba4g.py)|
+|[Generate the Convolution of a Spectrum](https://rosalind.info/problems/ba4h/)|BA4H|[![py](./images/python.png)](./textbook/ba4h.py)|
+|[Implement ConvolutionCyclopeptideSequencing](https://rosalind.info/problems/ba4i/)|BA4I|[![py](./images/python.png)](./textbook/ba4i.py)|
+|[Generate the Theoretical Spectrum of a Linear Peptide](https://rosalind.info/problems/ba4j/)|BA4J|[![py](./images/python.png)](./textbook/ba4j.py)|
+|[Compute the Score of a Linear Peptide](https://rosalind.info/problems/ba4k/)|BA4K|[![py](./images/python.png)](./textbook/ba4k.py)|
+|[Trim a Peptide Leaderboard](https://rosalind.info/problems/ba4l/)|BA4L|[![py](./images/python.png)](./textbook/ba4l.py)|
+|[Solve the Turnpike Problem](https://rosalind.info/problems/ba4m/)|BA4M|[![py](./images/python.png)](./textbook/ba4m.py)|
 
 ## Algorithmic Heights
 

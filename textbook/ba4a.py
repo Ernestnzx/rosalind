@@ -1,0 +1,1 @@
+from Bio.Seq import Seq;print(Seq(open('./testcase/rosalind_ba4a.txt','r').readline().strip()).translate()[:-1])

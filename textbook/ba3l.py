@@ -7,5 +7,5 @@ with open('./testcase/rosalind_ba3l.txt','r') as f:
     prefix = a[0] + ''.join(a[i][-1] for i in range(1,len(a)))
     suffix = b[0] + ''.join(b[i][-1] for i in range(1,len(b)))
     n,m = len(prefix),len(suffix)
-    assert(prefix[i] == suffix[i-k-d] for i in range(k+d+1,n))
+    assert all(prefix[i] == suffix[i-k-d] for i in range(k+d+1,n))
     print(prefix + suffix[m-k-d:m])
