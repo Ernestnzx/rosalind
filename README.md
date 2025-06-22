@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 49/124
+### Problem Solved: 63/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -169,6 +169,20 @@ that I'm thoroughly enjoying.
 |[Compute the Score of a Linear Peptide](https://rosalind.info/problems/ba4k/)|BA4K|[![py](./images/python.png)](./textbook/ba4k.py)|
 |[Trim a Peptide Leaderboard](https://rosalind.info/problems/ba4l/)|BA4L|[![py](./images/python.png)](./textbook/ba4l.py)|
 |[Solve the Turnpike Problem](https://rosalind.info/problems/ba4m/)|BA4M|[![py](./images/python.png)](./textbook/ba4m.py)|
+|[Find the Minimum Number of Coins Needed to Make Change](https://rosalind.info/problems/ba5a/)|BA5A|[![py](./images/python.png)](./textbook/ba5a.py)|
+|[Find the Length of a Longest Path in a Manhattan-like Grid](https://rosalind.info/problems/ba5b/)|BA5B|[![py](./images/python.png)](./textbook/ba5b.py)|
+|[Find a Longest Common Subsequence of Two Strings](https://rosalind.info/problems/ba5c/)|BA5C|[![py](./images/python.png)](./textbook/ba5c.py)|
+|[Find the Longest Path in a DAG](https://rosalind.info/problems/ba5d/)|BA5D|[![py](./images/python.png)](./textbook/ba5d.py)|
+|[Find a Highest-Scoring Alignment of Two Strings](https://rosalind.info/problems/ba5e/)|BA5E|[![py](./images/python.png)](./textbook/ba5e.py)|
+|[Find a Highest-Scoring Local Alignment of Two Strings](https://rosalind.info/problems/ba5f/)|BA5F|[![py](./images/python.png)](./textbook/ba5f.py)|
+|[Compute the Edit Distance Between Two Strings](https://rosalind.info/problems/ba5g/)|BA5G|[![py](./images/python.png)](./textbook/ba5g.py)|
+|[Find a Highest-Scoring Fitting Alignment of Two Strings](https://rosalind.info/problems/ba5h/)|BA5H|[![py](./images/python.png)](./textbook/ba5h.py)|
+|[Find a Highest-Scoring Overlap Alignment of Two Strings](https://rosalind.info/problems/ba5i/)|BA5I|[![py](./images/python.png)](./textbook/ba5i.py)|
+|[Align Two Strings Using Affine Gap Penalties](https://rosalind.info/problems/ba5j/)|BA5J|[![py](./images/python.png)](./textbook/ba5j.py)|
+|[Find a Middle Edge in an Alignment Graph in Linear Space](https://rosalind.info/problems/ba5k/)|BA5K|[![py](./images/python.png)](./textbook/ba5k.py)|
+|[Align Two Strings Using Linear Space](https://rosalind.info/problems/ba5l/)|BA5L|[![py](./images/python.png)](./textbook/ba5l.py)|
+|[Find a Highest-Scoring Multiple Sequence Alignment](https://rosalind.info/problems/ba5m/)|BA5M|[![py](./images/python.png)](./textbook/ba5m.py)|
+|[Find a Topological Ordering of a DAG](https://rosalind.info/problems/ba5n/)|BA5N|[![py](./images/python.png)](./textbook/ba5n.py)|
 
 ## Algorithmic Heights
 
