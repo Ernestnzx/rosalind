@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 63/124
+### Problem Solved: 74/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -183,6 +183,17 @@ that I'm thoroughly enjoying.
 |[Align Two Strings Using Linear Space](https://rosalind.info/problems/ba5l/)|BA5L|[![py](./images/python.png)](./textbook/ba5l.py)|
 |[Find a Highest-Scoring Multiple Sequence Alignment](https://rosalind.info/problems/ba5m/)|BA5M|[![py](./images/python.png)](./textbook/ba5m.py)|
 |[Find a Topological Ordering of a DAG](https://rosalind.info/problems/ba5n/)|BA5N|[![py](./images/python.png)](./textbook/ba5n.py)|
+|[Implement GreedySorting to Sort a Permutation by Reversals](https://rosalind.info/problems/ba6a/)|BA6A|[![py](./images/python.png)](./textbook/ba6a.py)|
+|[Compute the Number of Breakpoints in a Permutation](https://rosalind.info/problems/ba6b/)|BA6B|[![py](./images/python.png)](./textbook/ba6b.py)|
+|[Compute the 2-Break Distance Between a Pair of Genomes](https://rosalind.info/problems/ba6c/)|BA6C|[![py](./images/python.png)](./textbook/ba6c.py)|
+|[Find a Shortest Transformation of One Genome into Another by 2-Breaks](https://rosalind.info/problems/ba6d/)|BA6D|[![py](./images/python.png)](./textbook/ba6d.py)|
+|[Find All Shared k-mers of a Pair of Strings](https://rosalind.info/problems/ba6e/)|BA6E|[![py](./images/python.png)](./textbook/ba6e.py)|
+|[Implement ChromosomeToCycle](https://rosalind.info/problems/ba6f/)|BA6F|[![py](./images/python.png)](./textbook/ba6f.py)|
+|[Implement CycleToChromosome](https://rosalind.info/problems/ba6g/)|BA6G|[![py](./images/python.png)](./textbook/ba6g.py)|
+|[Implement ColoredEdges](https://rosalind.info/problems/ba6h/)|BA6H|[![py](./images/python.png)](./textbook/ba6h.py)|
+|[Implement GraphToGenome](https://rosalind.info/problems/ba6i/)|BA6I|[![py](./images/python.png)](./textbook/ba6i.py)|
+|[Implement 2-BreakOnGenomeGraph](https://rosalind.info/problems/ba6j/)|BA6J|[![py](./images/python.png)](./textbook/ba6j.py)|
+|[Implement 2-BreakOnGenome](https://rosalind.info/problems/ba6k/)|BA6K|[![py](./images/python.png)](./textbook/ba6k.py)|
 
 ## Algorithmic Heights
 

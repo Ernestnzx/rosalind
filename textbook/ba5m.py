@@ -5,7 +5,7 @@ def score(idx,arr):
 def multiple_alignment(dna,dp,t=()):
     if len(dna) == len(t):
         for i in range(1,1<<len(t)):
-            ts = [i >> y & 1 for y in range(len(t))]
+            ts = [i>>y&1 for y in range(len(t))]
             r = tuple(t[i]-ts[i] for i in range(len(t)))
             if any(i < 0 for i in r): continue
             prev,curr = dp.get(r,-10**9),dp.get(t,-10**9)
@@ -23,7 +23,8 @@ def get_alignment(dna,dp):
             u = tuple(t[i]-ts[i] for i in range(len(t)))
             if any(i < 0 for i in u): continue
             if dp[t] == dp[u] + score([t[j] if ts[j] else 0 for j in range(len(t))], dna):
-                for i in range(len(dna)): align[i].append('-' if ts[i] == 0 else dna[i][t[i]-ts[i]])
+                for i in range(len(dna)):
+                    align[i].append('-' if ts[i] == 0 else dna[i][t[i]-ts[i]])
                 t = u
     return [''.join(i[::-1]) for i in align]
 

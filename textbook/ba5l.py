@@ -45,5 +45,5 @@ with open('./testcase/rosalind_ba5l.txt','r') as f:
     s,t = f.readline().strip(),f.readline().strip()
     d,p = substitution_matrices.load('BLOSUM62'),-5
     a,b = hirschberg(s,t,d,p);
-    score = sum(d[a[i]][b[i]] if a[i] != '-' and b[i] != '-' else p for i in range(len(a)))
+    score = sum(d[x][y] if x != '-' and y != '-' else p for x,y in zip(a,b))
     print(int(score),a,b,sep='\n')
