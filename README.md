@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 74/124
+### Problem Solved: 81/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -194,6 +194,13 @@ that I'm thoroughly enjoying.
 |[Implement GraphToGenome](https://rosalind.info/problems/ba6i/)|BA6I|[![py](./images/python.png)](./textbook/ba6i.py)|
 |[Implement 2-BreakOnGenomeGraph](https://rosalind.info/problems/ba6j/)|BA6J|[![py](./images/python.png)](./textbook/ba6j.py)|
 |[Implement 2-BreakOnGenome](https://rosalind.info/problems/ba6k/)|BA6K|[![py](./images/python.png)](./textbook/ba6k.py)|
+|[Compute Distances Between Leaves](https://rosalind.info/problems/ba7a/)|BA7A|[![py](./images/python.png)](./textbook/ba7a.py)|
+|[Compute Limb Lengths in a Tree](https://rosalind.info/problems/ba7b/)|BA7B|[![py](./images/python.png)](./textbook/ba7b.py)|
+|[Implement AdditivePhylogeny](https://rosalind.info/problems/ba7c/)|BA7C|[![py](./images/python.png)](./textbook/ba7c.py)|
+|[Implement UPGMA](https://rosalind.info/problems/ba7d/)|BA7D|[![py](./images/python.png)](./textbook/ba7d.py)|
+|[Implement the Neighbor Joining Algorithm](https://rosalind.info/problems/ba7e/)|BA7E|[![py](./images/python.png)](./textbook/ba7e.py)|
+|[Implement SmallParsimony](https://rosalind.info/problems/ba7f/)|BA7F|[![py](./images/python.png)](./textbook/ba7f.py)|
+|[Adapt SmallParsimony to Unrooted Trees](https://rosalind.info/problems/ba7g/)|BA7G|[![py](./images/python.png)](./textbook/ba7g.py)|
 
 ## Algorithmic Heights
 
