@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 81/124
+### Problem Solved: 86/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -201,6 +201,11 @@ that I'm thoroughly enjoying.
 |[Implement the Neighbor Joining Algorithm](https://rosalind.info/problems/ba7e/)|BA7E|[![py](./images/python.png)](./textbook/ba7e.py)|
 |[Implement SmallParsimony](https://rosalind.info/problems/ba7f/)|BA7F|[![py](./images/python.png)](./textbook/ba7f.py)|
 |[Adapt SmallParsimony to Unrooted Trees](https://rosalind.info/problems/ba7g/)|BA7G|[![py](./images/python.png)](./textbook/ba7g.py)|
+|[Implement FarthestFirstTraversal](https://rosalind.info/problems/ba8a/)|BA8A|[![py](./images/python.png)](./textbook/ba8a.py)|
+|[Compute the Squared Error Distortion](https://rosalind.info/problems/ba8b/)|BA8B|[![py](./images/python.png)](./textbook/ba8b.py)|
+|[Implement the Lloyd Algorithm for k-Means Clustering](https://rosalind.info/problems/ba8c/)|BA8C|[![py](./images/python.png)](./textbook/ba8c.py)|
+|[Implement the Soft k-Means Clustering Algorithm](https://rosalind.info/problems/ba8d/)|BA8D|[![py](./images/python.png)](./textbook/ba8d.py)|
+|[Implement Hierarchical Clustering](https://rosalind.info/problems/ba8e/)|BA8E|[![py](./images/python.png)](./textbook/ba8e.py)|
 
 ## Algorithmic Heights
 
