@@ -114,4 +114,3 @@ def string_matching(s, p, sa):
     if s[sa[hi]:][:m] != p:
         hi -= 1
     return (l, hi)
-

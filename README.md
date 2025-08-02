@@ -117,7 +117,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 86/124
+### Problem Solved: 104/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -206,6 +206,24 @@ that I'm thoroughly enjoying.
 |[Implement the Lloyd Algorithm for k-Means Clustering](https://rosalind.info/problems/ba8c/)|BA8C|[![py](./images/python.png)](./textbook/ba8c.py)|
 |[Implement the Soft k-Means Clustering Algorithm](https://rosalind.info/problems/ba8d/)|BA8D|[![py](./images/python.png)](./textbook/ba8d.py)|
 |[Implement Hierarchical Clustering](https://rosalind.info/problems/ba8e/)|BA8E|[![py](./images/python.png)](./textbook/ba8e.py)|
+|[Construct a Trie from a Collection of Patterns](https://rosalind.info/problems/ba9a/)|BA9A|[![py](./images/python.png)](./textbook/ba9a.py)|
+|[Implement TrieMatching](https://rosalind.info/problems/ba9b/)|BA9B|[![py](./images/python.png)](./textbook/ba9b.py)|
+|[Construct the Suffix Tree of a String](https://rosalind.info/problems/ba9c/)|BA9C|[![py](./images/python.png)](./textbook/ba9c.py)|
+|[Find the Longest Repeat in a String](https://rosalind.info/problems/ba9d/)|BA9D|[![py](./images/python.png)](./textbook/ba9d.py)|
+|[Find the Longest Substring Shared by Two Strings](https://rosalind.info/problems/ba9e/)|BA9E|[![py](./images/python.png)](./textbook/ba9e.py)|
+|[Find the Shortest Non-Shared Substring of Two Strings](https://rosalind.info/problems/ba9f/)|BA9F|[![py](./images/python.png)](./textbook/ba9f.py)|
+|[Construct the Suffix Array of a String](https://rosalind.info/problems/ba9g/)|BA9G|[![py](./images/python.png)](./textbook/ba9g.py)|
+|[Pattern Matching with the Suffix Array](https://rosalind.info/problems/ba9h/)|BA9H|[![py](./images/python.png)](./textbook/ba9h.py)|
+|[Construct the Burrows-Wheeler Transform of a String](https://rosalind.info/problems/ba9i/)|BA9I|[![py](./images/python.png)](./textbook/ba9i.py)|
+|[Reconstruct a String from its Burrows-Wheeler Transform](https://rosalind.info/problems/ba9j/)|BA9J|[![py](./images/python.png)](./textbook/ba9j.py)|
+|[Generate the Last-to-First Mapping of a String](https://rosalind.info/problems/ba9k/)|BA9K|[![py](./images/python.png)](./textbook/ba9k.py)|
+|[Implement BWMatching](https://rosalind.info/problems/ba9l/)|BA9L|[![py](./images/python.png)](./textbook/ba9l.py)|
+|[Implement BetterBWMatching](https://rosalind.info/problems/ba9m/)|BA9M|[![py](./images/python.png)](./textbook/ba9m.py)|
+|[Find All Occurrences of a Collection of Patterns in a String](https://rosalind.info/problems/ba9n/)|BA9N|[![py](./images/python.png)](./textbook/ba9n.py)|
+|[Find All Approximate Occurrences of a Collection of Patterns in a String](https://rosalind.info/problems/ba9o/)|BA9O|[![py](./images/python.png)](./textbook/ba9o.py)|
+|[Implement TreeColoring](https://rosalind.info/problems/ba9p/)|BA9P|[![py](./images/python.png)](./textbook/ba9p.py)|
+|[Construct the Partial Suffix Array of a String](https://rosalind.info/problems/ba9q/)|BA9Q|[![py](./images/python.png)](./textbook/ba9q.py)|
+|[Construct a Suffix Tree from a Suffix Array](https://rosalind.info/problems/ba9r/)|BA9R|[![py](./images/python.png)](./textbook/ba9r.py)|
 
 ## Algorithmic Heights
 
