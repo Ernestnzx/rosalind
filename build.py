@@ -54,6 +54,6 @@ with open('README.md','w+') as new_readme:
         new_readme.write(f'## {title}\n\n')
         new_readme.write(f'### Problem Solved: {len(solved)}/{len(all_problems)}\n\n')
         new_readme.write('|Problem Name|Problem ID|Solution|\n|:---|:---|:---|\n')
-        for pid,title,url in sorted(rows):
+        for pid,title,url in sorted(rows,key=lambda x : f'{x[0][2:]:>03}' if file_path == 'textbook' else x[0]):
             new_readme.write(f'|[{title}]({url})|{pid}|[![py](./images/python.png)](./{file_path}/{pid.lower()}.py)|\n')
         new_readme.write('\n')
