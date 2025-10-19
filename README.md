@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 86/105
+### Problem Solved: 88/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -63,6 +63,7 @@ that I'm thoroughly enjoying.
 |[Inferring Genotype from a Pedigree](https://rosalind.info/problems/mend/)|MEND|[![py](./images/python.png)](./stronghold/mend.py)|
 |[Maximizing the Gap Symbols of an Optimal Alignment](https://rosalind.info/problems/mgap/)|MGAP|[![py](./images/python.png)](./stronghold/mgap.py)|
 |[Maximum Matchings and RNA Secondary Structures](https://rosalind.info/problems/mmch/)|MMCH|[![py](./images/python.png)](./stronghold/mmch.py)|
+|[Motzkin Numbers and RNA Secondary Structures](https://rosalind.info/problems/motz/)|MOTZ|[![py](./images/python.png)](./stronghold/motz.py)|
 |[Finding a Protein Motif](https://rosalind.info/problems/mprt/)|MPRT|[![py](./images/python.png)](./stronghold/mprt.py)|
 |[Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)|MRNA|[![py](./images/python.png)](./stronghold/mrna.py)|
 |[Multiple Alignment](https://rosalind.info/problems/mult/)|MULT|[![py](./images/python.png)](./stronghold/mult.py)|
@@ -85,6 +86,7 @@ that I'm thoroughly enjoying.
 |[Complementing a Strand of DNA](https://rosalind.info/problems/revc/)|REVC|[![py](./images/python.png)](./stronghold/revc.py)|
 |[Locating Restriction Sites](https://rosalind.info/problems/revp/)|REVP|[![py](./images/python.png)](./stronghold/revp.py)|
 |[Transcribing DNA into RNA](https://rosalind.info/problems/rna/)|RNA|[![py](./images/python.png)](./stronghold/rna.py)|
+|[Wobble Bonding and RNA Secondary Structures](https://rosalind.info/problems/rnas/)|RNAS|[![py](./images/python.png)](./stronghold/rnas.py)|
 |[Matching Random Motifs](https://rosalind.info/problems/rstr/)|RSTR|[![py](./images/python.png)](./stronghold/rstr.py)|
 |[Interleaving Two Motifs](https://rosalind.info/problems/scsp/)|SCSP|[![py](./images/python.png)](./stronghold/scsp.py)|
 |[Introduction to Set Operations](https://rosalind.info/problems/seto/)|SETO|[![py](./images/python.png)](./stronghold/seto.py)|
@@ -117,7 +119,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 104/124
+### Problem Solved: 107/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
