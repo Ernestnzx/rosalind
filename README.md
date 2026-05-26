@@ -15,7 +15,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Stronghold
 
-### Problem Solved: 88/105
+### Problem Solved: 90/105
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -34,6 +34,7 @@ that I'm thoroughly enjoying.
 |[Counting DNA Nucleotides](https://rosalind.info/problems/dna/)|DNA|[![py](./images/python.png)](./stronghold/dna.py)|
 |[Edit Distance](https://rosalind.info/problems/edit/)|EDIT|[![py](./images/python.png)](./stronghold/edit.py)|
 |[Edit Distance Alignment](https://rosalind.info/problems/edta/)|EDTA|[![py](./images/python.png)](./stronghold/edta.py)|
+|[Enumerating Unrooted Binary Trees](https://rosalind.info/problems/eubt/)|EUBT|[![py](./images/python.png)](./stronghold/eubt.py)|
 |[Expected Number of Restriction Sites](https://rosalind.info/problems/eval/)|EVAL|[![py](./images/python.png)](./stronghold/eval.py)|
 |[Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)|FIB|[![py](./images/python.png)](./stronghold/fib.py)|
 |[Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)|FIBD|[![py](./images/python.png)](./stronghold/fibd.py)|
@@ -87,6 +88,7 @@ that I'm thoroughly enjoying.
 |[Locating Restriction Sites](https://rosalind.info/problems/revp/)|REVP|[![py](./images/python.png)](./stronghold/revp.py)|
 |[Transcribing DNA into RNA](https://rosalind.info/problems/rna/)|RNA|[![py](./images/python.png)](./stronghold/rna.py)|
 |[Wobble Bonding and RNA Secondary Structures](https://rosalind.info/problems/rnas/)|RNAS|[![py](./images/python.png)](./stronghold/rnas.py)|
+|[Counting Rooted Binary Trees](https://rosalind.info/problems/root/)|ROOT|[![py](./images/python.png)](./stronghold/root.py)|
 |[Matching Random Motifs](https://rosalind.info/problems/rstr/)|RSTR|[![py](./images/python.png)](./stronghold/rstr.py)|
 |[Interleaving Two Motifs](https://rosalind.info/problems/scsp/)|SCSP|[![py](./images/python.png)](./stronghold/scsp.py)|
 |[Introduction to Set Operations](https://rosalind.info/problems/seto/)|SETO|[![py](./images/python.png)](./stronghold/seto.py)|
@@ -119,7 +121,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 107/124
+### Problem Solved: 104/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|

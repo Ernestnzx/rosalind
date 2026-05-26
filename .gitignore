@@ -2,3 +2,4 @@
 **/out.txt
 **/__pycache__/
 /unsolved/
+.vscode
