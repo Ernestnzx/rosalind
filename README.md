@@ -121,7 +121,7 @@ that I'm thoroughly enjoying.
 
 ## Bioinformatics Textbook Track
 
-### Problem Solved: 104/124
+### Problem Solved: 109/124
 
 |Problem Name|Problem ID|Solution|
 |:---|:---|:---|
@@ -228,6 +228,11 @@ that I'm thoroughly enjoying.
 |[Implement TreeColoring](https://rosalind.info/problems/ba9p/)|BA9P|[![py](./images/python.png)](./textbook/ba9p.py)|
 |[Construct the Partial Suffix Array of a String](https://rosalind.info/problems/ba9q/)|BA9Q|[![py](./images/python.png)](./textbook/ba9q.py)|
 |[Construct a Suffix Tree from a Suffix Array](https://rosalind.info/problems/ba9r/)|BA9R|[![py](./images/python.png)](./textbook/ba9r.py)|
+|[Compute the Probability of a Hidden Path](https://rosalind.info/problems/ba10a/)|BA10A|[![py](./images/python.png)](./textbook/ba10a.py)|
+|[Compute the Probability of an Outcome Given a Hidden Path](https://rosalind.info/problems/ba10b/)|BA10B|[![py](./images/python.png)](./textbook/ba10b.py)|
+|[Implement the Viterbi Algorithm](https://rosalind.info/problems/ba10c/)|BA10C|[![py](./images/python.png)](./textbook/ba10c.py)|
+|[Compute the Probability of a String Emitted by an HMM](https://rosalind.info/problems/ba10d/)|BA10D|[![py](./images/python.png)](./textbook/ba10d.py)|
+|[Construct a Profile HMM](https://rosalind.info/problems/ba10e/)|BA10E|[![py](./images/python.png)](./textbook/ba10e.py)|
 
 ## Algorithmic Heights
 

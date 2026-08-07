@@ -1,0 +1,11 @@
+xzyzzxxzzyyyyyyyyzyyyyxzyzxyxxyyzzyxxyzzyxzyzyzzxyxzzzxxzzxzxyyxzzyxzzyxzyxyyzzzyyzxyxyyzxyyxxxxzzxy
+x	y	z
+A	B	C	D
+0.181	0.199	0.273	0.348	
+0.249	0.186	0.315	0.25	
+0.253	0.372	0.206	0.169	
+0.409	0.148	0.121	0.321	
+0.215	0.312	0.473	
+0.676	0.171	0.153	
+0.426	0.286	0.288	
+0.354	0.225	0.422
